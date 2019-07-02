@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="9571" started-at="2019-07-02T14:36:35Z" finished-at="2019-07-02T14:36:45Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="9571" started-at="2019-07-02T14:36:35Z" finished-at="2019-07-02T14:36:45Z">
+      <class name="com.totalbeginner.springbootswaggerdemo.SpringBootSwaggerDemoApplicationTests">
+        <test-method status="PASS" signature="contextLoads()" name="contextLoads" duration-ms="1762" started-at="2019-07-02T14:36:43Z" finished-at="2019-07-02T14:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.totalbeginner.springbootswaggerdemo.SpringBootSwaggerDemoApplicationTests -->
+      <class name="com.totalbeginner.springbootswaggerdemo.resource.UserResourceTest">
+        <test-method status="PASS" signature="testGetAUser() throws java.lang.Exception" name="testGetAUser" duration-ms="1111" started-at="2019-07-02T14:36:42Z" finished-at="2019-07-02T14:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAUser -->
+        <test-method status="PASS" signature="testGetAllUsers() throws java.lang.Exception" name="testGetAllUsers" duration-ms="1134" started-at="2019-07-02T14:36:42Z" finished-at="2019-07-02T14:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllUsers -->
+      </class> <!-- com.totalbeginner.springbootswaggerdemo.resource.UserResourceTest -->
+      <class name="com.totalbeginner.springbootswaggerdemo.resource.UserTest">
+        <test-method status="PASS" signature="testUserName()" name="testUserName" duration-ms="2" started-at="2019-07-02T14:36:42Z" finished-at="2019-07-02T14:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserName -->
+        <test-method status="PASS" signature="testUserSalary()" name="testUserSalary" duration-ms="2" started-at="2019-07-02T14:36:42Z" finished-at="2019-07-02T14:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserSalary -->
+      </class> <!-- com.totalbeginner.springbootswaggerdemo.resource.UserTest -->
+      <class name="com.totalbeginner.springbootswaggerdemo.resource.HelloResourceTest">
+        <test-method status="PASS" signature="testTesting() throws java.lang.Exception" name="testTesting" duration-ms="5864" started-at="2019-07-02T14:36:36Z" finished-at="2019-07-02T14:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTesting -->
+        <test-method status="PASS" signature="tesHelloWorld() throws java.lang.Exception" name="tesHelloWorld" duration-ms="5924" started-at="2019-07-02T14:36:36Z" finished-at="2019-07-02T14:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesHelloWorld -->
+      </class> <!-- com.totalbeginner.springbootswaggerdemo.resource.HelloResourceTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+/home/nkomof/totalBeginner/spring-boot-swagger-demo/src/main/java/com/totalbeginner/springbootswaggerdemo/SpringBootSwaggerDemoApplication.java
+/home/nkomof/totalBeginner/spring-boot-swagger-demo/src/main/java/com/totalbeginner/springbootswaggerdemo/resource/HelloResource.java
+/home/nkomof/totalBeginner/spring-boot-swagger-demo/src/main/java/com/totalbeginner/springbootswaggerdemo/resource/User.java
+/home/nkomof/totalBeginner/spring-boot-swagger-demo/src/main/java/com/totalbeginner/springbootswaggerdemo/resource/UserResource.java
+/home/nkomof/totalBeginner/spring-boot-swagger-demo/src/main/java/com/totalbeginner/springbootswaggerdemo/config/SwaggerConfiguration.java
